@@ -1,0 +1,10 @@
+@import url("./normalize.css");
+@import url("./typebase.css");
+html {
+  font-size: 85%;
+  font-family: Futura, Calibri, Trebuchet, sans-serif;
+}
+
+/*h1, h2, h3, h4, h5, h6 {
+  font-family: Futura, Calibri, Trebuchet, sans-serif;
+}*/
